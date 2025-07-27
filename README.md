@@ -5,5 +5,7 @@ Práctica de Programacion Avanzada 1 - UPSE
 
 Erika Dominguez
 
+Como ejecutar el proyecto:
+1. clonar el repositorio
 
 
